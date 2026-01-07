@@ -11,19 +11,6 @@ Using SQL, Excel, and Tableau, I examined customer cohorts, churn behavior, and 
 Business Objective
 
 Identify key drivers of customer churn and retention in order to propose data-driven actions that improve repeat purchase behavior and customer lifetime value (CLV).
-___
-Dataset
-
-Source: Olist E-Commerce Public Dataset (Kaggle)
-
-Key tables: 
-- olist_orders
-- olist_customers
-
-Primary keys and fields:
-- customer_unique_id
-- order_id
-- order_purchase_timestamp
 ***
 Dashboards
 
