@@ -76,7 +76,7 @@ Key Business Insights
 
 :five: **Acquisition masks retention failure**
 - Stable activity is driven by new customers.
-> Top-line metrics hide severe underlying retention problems.
+> Top-line metrics; monthly active customers, new customers acquired per month and so on hide severe underlying retention problems.
 ***
 Business Recommendations
 - Introduce second-purchase incentives and post-purchase engagement
