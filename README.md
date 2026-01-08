@@ -26,6 +26,8 @@ Visuals
 - Monthly Active Customers (line chart)
 - Monthly New vs Returning Customers (stacked bar)
 
+<img width="1574" height="1011" alt="Overview" src="https://github.com/user-attachments/assets/92180f7e-5809-4586-8d41-a247c476f344" />
+
 2️⃣ Cohort Retention Dashboard
 
 Purpose: To identify when customers churn.
@@ -38,6 +40,8 @@ Key observation
 - Retention drops sharply from 100% in Month 0 to 0.48% in Month 1
 - Retention stabilizes at extremely low levels afterward
 
+<img width="1574" height="1011" alt="Cohort Retention" src="https://github.com/user-attachments/assets/58494a2a-4c01-405f-bc87-cfc0c0801b30" />
+
 3️⃣ Churn Analysis Dashboard
 
 Purpose: To quantify disengagement and inactivity.
@@ -48,6 +52,9 @@ Key Metrics
 
 Visuals
 - Active vs Churned Customers by Cohort Month
+
+<img width="1574" height="1011" alt="Churn Analysis" src="https://github.com/user-attachments/assets/31044cb4-dc0c-4eeb-82ca-d625cc1d615a" />
+
 ***
 Key Business Insights
 
