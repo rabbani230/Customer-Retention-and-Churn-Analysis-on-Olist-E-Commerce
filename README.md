@@ -88,6 +88,39 @@ Business Recommendations
 Business Impact
 
 ➡️ Improving Month-1 retention would deliver disproportionate gains in customer lifetime value, reduce dependency on continuous acquisition, and improve marketing efficiency.
+***
+Dataset
+
+Source: Olist E-Commerce Public Dataset (Kaggle)
+
+Key tables:
+- olist_orders
+- olist_customers
+
+Primary keys & fields:
+- order_id
+- customer_unique_id
+- order_purchase_timestamp
+***
+Tools Used
+
+:one: SQL (Microsoft SQL Server)
+- Data cleaning and joins
+- Customer-level aggregation
+- Cohort creation (first purchase month)
+- Churn labeling using inactivity thresholds
+
+:two: Excel
+- Metric validation and sanity checks
+- Retention heatmap (PivotTable)
+- Churn and inactivity analysis
+
+:three: Tableau
+- KPI dashboards
+- Cohort retention heatmaps
+- Retention curves
+- Churn and lifecycle analysis
+
 
 
 
