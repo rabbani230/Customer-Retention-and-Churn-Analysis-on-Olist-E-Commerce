@@ -40,7 +40,7 @@ Key observation
 - Retention drops sharply from 100% in Month 0 to 0.48% in Month 1
 - Retention stabilizes at extremely low levels afterward
 
-<img width="1574" height="1011" alt="Cohort Retention" src="https://github.com/user-attachments/assets/58494a2a-4c01-405f-bc87-cfc0c0801b30" />
+<img width="1574" height="1011" alt="Cohort Retention" src="https://github.com/user-attachments/assets/61efdc24-a21d-447e-9138-e57c91e360e8" />
 
 3️⃣ Churn Analysis Dashboard
 
