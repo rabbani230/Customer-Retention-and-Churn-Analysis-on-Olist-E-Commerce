@@ -6,7 +6,9 @@ Project Overview
 
 This project analyzes customer purchasing behavior in an e-commerce marketplace to understand why customers fail to return after their first purchase and how retention impacts long-term business value.
 
-Using SQL, Excel, and Tableau, I examined customer cohorts, churn behavior, and repeat purchase patterns to surface actionable business insights relevant to large marketplaces such as Shopee.
+Using SQL, Excel, and Tableau, I examined customer cohorts, churn behavior, and repeat purchase patterns to surface actionable business insights relevant to large marketplaces.
+
+Olist is an e-commerce solution provider for small and medium-sized businesses (SMEs) in Brazil. It was founded in 2015 and offers a platform to manage multichannel sales, operations, and marketplace integration.
 ***
 Business Objective
 
