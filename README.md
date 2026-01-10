@@ -1,7 +1,5 @@
-Customer Retention & Churn Analysis
+Customer Retention & Churn Analysis of Olist
 ---
-Olist E-Commerce Dataset | SQL (MSSQL), Excel, Tableau
-***
 Project Overview
 
 This project analyzes customer purchasing behavior in an e-commerce marketplace to understand why customers fail to return after their first purchase and how retention impacts long-term business value.
